@@ -1,5 +1,6 @@
-# lancelot260.github.io
+Presentation about myself and my parcours
 
-personal portfolio
-LOREM IPSUM
+I will try to update on the weekend
+    
+    []: # Path: lancelot260.github.io\index.html
 
