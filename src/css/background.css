@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	color: rgb(55, 55, 55);
 	font: 300 16px/18px Roboto, sans-serif;
-	background: url(../img/Wallpaper.png) #4b646e no-repeat center fixed;
+	background:  #45585e no-repeat center fixed;
 	background-size: cover;
 	font-family: 'segoe ui';
 }
