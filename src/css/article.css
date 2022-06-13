@@ -1,0 +1,38 @@
+body {
+    font-family: 'segoe ui';
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 80px;
+    font-size: 35;
+}
+
+.img {
+    width: 100%;
+}
+
+.row div {
+    float: left;
+}
+
+.col-md-4 {
+    width: 26.5%;
+    background-color: rgba(99, 154, 206, 0.7);
+    box-shadow: 10px 5px 5px rgb(99, 154, 206, 0.4);
+    margin-left: 5%;
+    margin-bottom: 4%;
+}
+
+.blog-table {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#date {
+    margin-bottom: 0;
+}
+
+.row {
+    background-position: center;
+}
