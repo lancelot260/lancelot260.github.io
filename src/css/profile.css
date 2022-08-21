@@ -1,0 +1,4 @@
+.infoPerso {
+    display: flex;
+    flex-direction: row;
+}

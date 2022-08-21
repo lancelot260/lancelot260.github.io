@@ -1,6 +1,19 @@
 * {
     box-sizing: border-box;
   }
+
+  .photoBilan {
+    width: 50%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+}
+
+#Billan {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
   
   .h2 {
     text-align: center;
